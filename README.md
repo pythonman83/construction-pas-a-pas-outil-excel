@@ -164,6 +164,4 @@ Avant toute mise en ligne, il est recommandé de :
 
 ## 📄 Licence
 
-Aucune licence n'est précisée dans la page. Ajoutez ici la licence de votre choix
-(par exemple [MIT](https://opensource.org/licenses/MIT) pour un usage libre, ou une mention
-« Tous droits réservés » si le support reste interne à MODE 83).
+Tous droits réservés Jean-Claude Lugo
